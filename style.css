@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(226, 241, 235);
+}
+
+#project {
+  background-color: rgb(226, 241, 235);
+}
+
+footer {
+  background-color: rgb(25, 135, 84);
+  text-decoration: none;
+}
+
+section {
+  padding-top: 5rem;
+}

@@ -1,0 +1,48 @@
+ <footer class='footer'>
+    <div class='container'>
+      <div class='footer-main u-pt50 u-pb50'>
+        <div class='row'>
+          <div class='col-sm-4'>
+            <a class="footer__logo-link" href="/">
+              <div class='footer__logo'>
+                <h3>
+                  Progate
+                </h3>
+              </div>
+            </a>
+          </div>
+          <div class='col-sm-2'>
+            <h4>LAYANAN</h4>
+            <ul class='footer__menus'>
+              <li><a href="/courses">Pelajaran</a></li>
+              <li><a href="/plans/for_users?ref=footerLink_%2F">Paket</a></li>
+              <li><a href="/success_stories">Kisah Sukses</a></li>
+              <li><a target="_blank" href="https://medium.com/progate">Blog</a></li>
+              <li><a href="/faqs">Bantuan</a></li>
+            </ul>
+          </div>
+          <div class='col-sm-2'>
+            <h4>DUKUNGAN</h4>
+            <ul class='footer__menus'>
+
+              <li><a target="_blank" href="/about">Tentang Progate</a></li>
+              <li><a href="/policy">Ketentuan</a></li>
+              <li><a href="/privacy_policy">Kebijakan Privasi</a></li>
+            </ul>
+          </div>
+
+          <div class='col-sm-4'>
+            <h4>IKUTI KAMI DI</h4>
+            <ul class='footer__menus footer__menus-sns'>
+              <li><i class="bi bi-whatsapp"></i><a target="_blank"
+                  href="https://www.instagram.com/progateID/">Instagram</a></li>
+              <li><a target="_blank" href="https://twitter.com/progateID">Twitter</a></li>
+              <li><a target="_blank" href="https://www.facebook.com/ProgateID/">Facebook</a></li>
+            </ul>
+          </div>
+          <div class='footer__copyright col-sm-12'>&copy; 2014 Progate, Inc.</div>
+        </div>
+      </div>
+
+    </div>
+  </footer>
